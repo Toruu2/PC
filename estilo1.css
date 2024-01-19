@@ -1,0 +1,14 @@
+h1
+{
+    background-color:black;
+    color:white
+}
+figure {
+    text-align: center; /* Alinea la figura al centro */
+  }
+
+  figcaption {
+    display: block; /* Hace que el figcaption se comporte como un bloque */
+    margin-top: 10px; /* Espaciado superior entre la imagen y el texto */
+  }
+
